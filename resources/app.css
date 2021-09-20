@@ -1,0 +1,199 @@
+.section {
+    height: 100vh !important;
+}
+
+.section-one-text {
+    height: 70vh;
+}
+
+.section-one {
+    height: 70vh;
+    background-image: url('../resources/images/sahrul.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 450px;
+}
+
+.title-name {
+    font-size: 7vw;
+    font-weight: 1000;
+    font-family: 'Century Gothic';
+    color: #15192B !important;
+}
+
+.npm {
+    color: #FB6B30 !important;
+    font-size: 3vw;
+    font-weight: 300;
+    font-family: 'century Gothic';
+}
+
+.section-two {
+    background-color: #F4F4F7;
+}
+
+.section-two .title {
+    font-size: 50px;
+    font-family: 'century Gothic';
+    font-weight: bold !important;
+}
+
+.section-two .content .title {
+    font-size: 20px;
+    font-family: 'century Gothic';
+    font-weight: bold !important;
+    color: #FB6B30 !important;
+}
+
+.section-two .content .value {
+    font-size: 15px;
+    font-family: 'century Gothic';
+    font-weight: lighter !important;
+    color: #15192B !important;
+}
+
+.section-two .content .card-custom-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: none;
+    background: #FB6B30;
+    box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+}
+
+.section-two .content .card-custom-2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: none;
+    background: #5540FB;
+    box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+}
+
+.section-two .content .card-custom-3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: none;
+    background: #20B9FC;
+    box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+}
+
+.section-two .content .card-custom-4 {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: none;
+    background: #15192B;
+    box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+}
+
+.icon-setting {
+    width: 50px;
+    color: #F4F4F7;
+}
+
+.icon-title {
+    width: 40px;
+    color: #F4F4F7;
+}
+
+.black {
+    color: black !important;
+}
+
+.section-three .title {
+    font-size: 50px;
+    font-family: 'century Gothic';
+    font-weight: bold !important;
+    color: #FB6B30;
+}
+
+.college-title {
+    font-size: 30px;
+    font-family: 'century Gothic';
+    font-weight: bolder !important;
+    color: #15192B;
+}
+
+.college-year {
+    font-size: 20px;
+    font-family: 'century Gothic';
+    font-weight: lighter !important;
+    color: #FB6B30;
+}
+
+.card-college {
+    height: 500px;
+    border-radius: 10px !important;
+    border: none !important;
+    box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+}
+
+.smk {
+    /* background-color: #5540FB !important; */
+    background-image: url(https://foto2.data.kemdikbud.go.id/getImage/20219146/11.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.univ {
+    /* background-color: #20B9FC !important; */
+    background-image: url(https://www.widyatama.ac.id/wp-content/uploads/2021/02/Untitled-design.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.section-four {
+    background-color: #F4F4F7;
+    height: 700px;
+}
+
+.section-four .title {
+    font-size: 50px;
+    font-family: 'century Gothic';
+    font-weight: bold !important;
+}
+
+.card-skill {
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 10px !important;
+    border: none !important;
+    /* background: #FB6B30 !important; */
+    box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1) !important;
+    -webkit-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 8px 10px 13px 0px rgba(0,0,0,0.1);
+}
+
+.laravel {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png);
+}
+
+.vuejs {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png);
+}
+
+.angular {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png);
+}
+
+.nestjs {
+    background-image: url(https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg);
+}
+
+.skill-container {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
